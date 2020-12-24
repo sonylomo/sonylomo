@@ -8,4 +8,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonylomo&show_icons=true&include_all_commits=true&theme=cobalt" alt="Sony's github stats" />
 </a>
 
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
