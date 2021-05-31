@@ -10,9 +10,9 @@
 
 # 📕Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet Imagine Cup World Finalists, Team CafriLearn](https://dev.to/msambassadorske/meet-imagine-cup-world-finalists-team-cafrilearn-4p50)
 - [Building Data Science East Africa with Harun Mwenda.](https://dev.to/msambassadorske/building-data-science-east-africa-with-harun-mwenda-4ai7)
 - [Riveting Success of The Plant Signal Team](https://dev.to/msambassadorske/riveting-success-of-the-plant-signal-team-3ni5)
 - [Get That Unique Hackathon Idea From Open Government Data.](https://dev.to/msambassadorske/get-that-unique-hackathon-idea-from-open-government-data-4l0a)
 - [Making Inclusive Web Apps.](https://dev.to/msambassadorske/making-inclusive-web-apps-aj)
-- [THINGS I WISH I KNEW AS A BEGINNER.](https://dev.to/sony_lomo/things-i-wish-i-knew-as-a-beginner-33el)
 <!-- BLOG-POST-LIST:END -->
