@@ -10,7 +10,7 @@
 
 # 📕Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meet Imagine Cup World Finalists 2021](https://dev.to/msambassadorske/meet-imagine-cup-world-finalists-2021-9d1)
+- [Imagine Cup World Champions 2021](https://dev.to/msambassadorske/meet-imagine-cup-world-finalists-2021-9d1)
 - [Meet Imagine Cup World Finalists, Team CafriLearn](https://dev.to/msambassadorske/meet-imagine-cup-world-finalists-team-cafrilearn-4p50)
 - [Building Data Science East Africa with Harun Mwenda.](https://dev.to/msambassadorske/building-data-science-east-africa-with-harun-mwenda-4ai7)
 - [Riveting Success of The Plant Signal Team](https://dev.to/msambassadorske/riveting-success-of-the-plant-signal-team-3ni5)
