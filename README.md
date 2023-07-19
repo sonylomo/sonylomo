@@ -1,4 +1,4 @@
-# [Sonia Lomo](https://sonylomo.github.io/) - I break Software to fix it
+# [Sonia Lomo](https://sonylomo.github.io/) - I ~~Break~~ ~~Fix~~ Build Software 😇
 ### Hey there Stalker... 😏 
 
 <a href="https://github.com/sonylomo/github-readme-stats">
