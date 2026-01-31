@@ -19,10 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 56 mins   ███████████████████▓░░░░░   78.67 %
-YAML         21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-Go           18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-Markdown     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+JavaScript   3 hrs 2 mins    ████████████████████████░   95.97 %
+Markdown     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
