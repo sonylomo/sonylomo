@@ -19,8 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML     10 mins               ████████████████████████░   95.84 %
-Docker   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Docker   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
