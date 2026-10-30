@@ -42,11 +42,11 @@ Sometimes the best way to understand something is to build it, break it, fix it,
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         3 hrs 14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
-YAML         3 hrs 6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.06 %
-Markdown     2 hrs 22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
-TypeScript   1 hr 24 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-JSON         1 hr 12 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+YAML         4 hrs 9 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
+Bash         3 hrs 12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
+TypeScript   2 hrs 54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
+Markdown     2 hrs 23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+JSON         1 hr 40 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
 ```
 
 <!--END_SECTION:waka-->
